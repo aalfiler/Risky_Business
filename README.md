@@ -1,6 +1,6 @@
 # Unit 11 | Classification - Risky Business
 
-#### Resampling
+### Resampling
 
 > Which model had the best balanced accuracy score?
 >
@@ -8,7 +8,7 @@
 >
 > Which model had the best geometric mean score?
 
-#### Ensemble Learning
+### Ensemble Learning
 
 > Which model had the best balanced accuracy score?
 >
